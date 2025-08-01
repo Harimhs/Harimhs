@@ -80,8 +80,9 @@ I’m a passionate engineering student focused on turning real-world challenges 
 
 ![Hariharasudhan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harimhs&show_icons=true&theme=react&hide_border=true&count_private=true)
 
+![GitHub Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Harimhs&theme=react-dark)
+![Java (DSA Expert)](https://img.shields.io/badge/Java%20(DSA%20Expert)-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harimhs&layout=compact&theme=react&hide_border=true)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Harimhs&theme=react&hide_border=true)
 
 
