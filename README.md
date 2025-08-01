@@ -6,7 +6,7 @@ I’m a passionate engineering student focused on turning real-world challenges 
 
 ---
 
-## Tech Stack
+## Tech Stack and Skills
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
@@ -50,7 +50,7 @@ I’m a passionate engineering student focused on turning real-world challenges 
 - **1st Place** – NGI-TBI Hackathon (among 100 teams)
 - **Best Outgoing Student 2025** – College-wide award
 - **Top 20 Finalist** – NM-AU-TNCPL Hackathon (out of 49,000 teams)
-- **TNSCST Grant Winner** – ₹20K government funding for AI projects
+- **TNSCST Grant Winner** – ₹20K government funding for AI projects(2 consecutive times)
 
 ---
 
