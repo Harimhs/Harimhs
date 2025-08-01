@@ -77,8 +77,6 @@ I’m a passionate engineering student focused on turning real-world challenges 
 
 ##  GitHub Stats
 
-![Hariharasudhan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harimhs&show_icons=true&theme=react&hide_border=true&count_private=true)
-
 ![GitHub Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Harimhs&theme=react-dark)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Hari--M-orange?logo=leetcode&style=flat-square)](https://leetcode.com/u/Hari-M/)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harimhs&layout=compact&theme=react&hide_border=true)
