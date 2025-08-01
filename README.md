@@ -74,5 +74,16 @@ I’m a passionate engineering student focused on turning real-world challenges 
 
 ---
 
+---
+
+##  GitHub Stats
+
+![Hariharasudhan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harimhs&show_icons=true&theme=react&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harimhs&layout=compact&theme=react&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Harimhs&theme=react&hide_border=true)
+
+
 > *"I build, break, and better intelligent systems. Let's connect if you're hiring, building, or just exploring AI/ML."*
 
