@@ -21,6 +21,7 @@ I’m a passionate engineering student focused on turning real-world challenges 
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
 ![GCP](https://img.shields.io/badge/GoogleCloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Hari--M-orange?logo=leetcode&style=flat-square)](https://leetcode.com/u/Hari-M/)
 
 ---
 
@@ -74,14 +75,12 @@ I’m a passionate engineering student focused on turning real-world challenges 
 
 ---
 
----
-
 ##  GitHub Stats
 
 ![Hariharasudhan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harimhs&show_icons=true&theme=react&hide_border=true&count_private=true)
 
 ![GitHub Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Harimhs&theme=react-dark)
-![Java (DSA Expert)](https://img.shields.io/badge/Java%20(DSA%20Expert)-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Hari--M-orange?logo=leetcode&style=flat-square)](https://leetcode.com/u/Hari-M/)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harimhs&layout=compact&theme=react&hide_border=true)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Harimhs&theme=react&hide_border=true)
 
