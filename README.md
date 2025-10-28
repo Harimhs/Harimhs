@@ -1,6 +1,6 @@
 # Hi, I'm Hariharasudhan M
 
-### Aspiring Software Engineer | Full Stack Developer | Open to Roles
+### Aspiring Software Engineer | ML Engineer | Open to Roles
 
 I’m a passionate engineering student focused on turning real-world challenges into intelligent software solutions. From building AI-driven learning platforms to deploying cloud-based ML apps, I thrive at the intersection of **code, creativity, and impact**.
 
@@ -10,7 +10,6 @@ I’m a passionate engineering student focused on turning real-world challenges 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
-![OOPS](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
 ![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-%231572B6?style=for-the-badge&logo=codeforces&logoColor=white)
