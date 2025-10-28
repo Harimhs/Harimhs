@@ -17,7 +17,6 @@ I’m a passionate engineering student focused on turning real-world challenges 
 ![OOP](https://img.shields.io/badge/Object%20Oriented%20Programming-%239B59B6?style=for-the-badge&logo=java&logoColor=white)
 ![Git](https://img.shields.io/badge/Git%20%26%20GitHub-%23F05032?style=for-the-badge&logo=git&logoColor=white)
 ![SDLC](https://img.shields.io/badge/SDLC-%23007ACC?style=for-the-badge&logo=azuredevops&logoColor=white)
-![Agile](https://img.shields.io/badge/Agile%20Methodology-%23FF6F00?style=for-the-badge&logo=scrumalliance&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
 ![GCP](https://img.shields.io/badge/GoogleCloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
