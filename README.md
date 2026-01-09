@@ -1,6 +1,6 @@
 # Hi, I'm Hariharasudhan M!
 
-## AI/ML Engineer | Open to learn and grow!
+## AI/ML Engineer | Open to learn and grow
 
 Building **production-grade AI systems** that solve real-world problems. Specialized in **RAG pipelines, LLM fine-tuning, prompt engineering**, and **scalable ML deployment**. From concept to deployment, I create AI solutions with measurable impact.
 
