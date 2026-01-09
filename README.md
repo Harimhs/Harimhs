@@ -127,9 +127,7 @@ LangChain • Hugging Face • Apache Airflow (basics) • Google Cloud Platform
 ## 📚 Certifications & Training
 
 **AI/ML Specializations**:
-- IBM Python for Data Science, AI & Development
-- Deep Learning Specialization (in progress)
-- Google Cloud Machine Learning Engineer Path
+- IBM Python for Data Science
 
 **Development & Cloud**:
 - Python Full Stack Developer – IPCS Global
@@ -153,11 +151,10 @@ LangChain • Hugging Face • Apache Airflow (basics) • Google Cloud Platform
 
 I'm currently seeking **AI/ML Engineer roles** where I can build production-grade AI systems that create real impact.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://harimhs.github.io/portfolio)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://harimhs.github.io/my-portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hariharasudhan-mg)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Harimhs)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mghariharasudhan@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Hari-M/)
 
 ---
 
