@@ -4,8 +4,6 @@
 
 Building **production-grade AI systems** that solve real-world problems. Specialized in **RAG pipelines, LLM fine-tuning, prompt engineering**, and **scalable ML deployment**. From concept to deployment, I create AI solutions with measurable impact.
 
-🏆 **Best Outgoing Student 2025** | 🎯 **TNSCST Grant Winner (₹20K)** | 🥇 **Hackathon Champion**
-
 ---
 
 ##  What I Do
